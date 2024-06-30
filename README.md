@@ -32,11 +32,11 @@ This project demonstrates how to control an RC car using an ESP8266 or ESP32 mic
 - The microcontroller runs a web server on port 80 to serve the control interface.
 - The web interface uses HTML, CSS, and JavaScript for structure, styling, and interactivity.
 
-  
-### Author: ARKA MANNAA
-
 ### Circuit Connections
 - **Motors**: Connected to GPIO pins D1, D2, D3, and D4.
 - **Light**: Connected to GPIO pin D6.
 - **Horn**: Connected to GPIO pin D7.
+
+
+### Author: ARKA MANNAA
 
